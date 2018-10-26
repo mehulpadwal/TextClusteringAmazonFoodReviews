@@ -2,7 +2,7 @@
 Making keyword clusters with Amazon Food review data
 
 Prerequisites:
-1. Install Python 3.6 or lower which is tensorflow compatible (Python 3.7 is not compatible)
+1. Install Python 3.6 or lower which is tensorflow compatible (Python 3.7 is not compatible as of this time)
 2. Install tensorflow(pip install tensorflow)
 3. Install sklearn( pip install scikit-learn)
 
